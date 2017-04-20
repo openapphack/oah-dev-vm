@@ -1,0 +1,7 @@
+---
+- src: https://github.com/openapphack/ansible-role-oah
+  version: master
+  name: oah.oah
+- src: https://github.com/openapphack/ansible-role-oah-atom
+  version: master
+  name: oah.atom
