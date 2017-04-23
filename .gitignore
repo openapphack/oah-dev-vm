@@ -1,1 +1,4 @@
 .vagrant
+.retry
+*.log
+./provisioning/roles/*
