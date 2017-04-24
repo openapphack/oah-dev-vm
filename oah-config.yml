@@ -1,6 +1,6 @@
 ---
 # environment Name
-env_name: oah-dev-vm
+oah_env_name: oah-dev-vm
 #GUI Flag
 oah_vm_gui: true
 # `vagrant_box` .
